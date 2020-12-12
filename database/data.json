@@ -36,7 +36,9 @@
       "description": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
       "url": "https://via.placeholder.com/600/d32776",
       "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "artist": "d32776"
+      "artist": "d32776",
+      "audio": "/audio/guns.mp3",
+      "video": "/video/guns.mp4"
     },
     {
       "id": "5",
@@ -44,7 +46,9 @@
       "description": "aut porro officiis laborum odit ea laudantium corporis",
       "url": "https://via.placeholder.com/600/54176f",
       "thumbnailUrl": "https://via.placeholder.com/150/54176f",
-      "artist": "54176f"
+      "artist": "54176f",
+      "audio": "/audio/queen.mp3",
+      "video": "/video/queen.mp4"
     },
     {
       "id": "6",
@@ -52,7 +56,9 @@
       "description": "qui eius qui autem sed",
       "url": "https://via.placeholder.com/600/51aa97",
       "thumbnailUrl": "https://via.placeholder.com/150/51aa97",
-      "artist": "51aa97"
+      "artist": "51aa97",
+      "audio": "/audio/daft-punk.mp3",
+      "video": "/video/daft-punk.mp4"
     },
     {
       "id": "7",
@@ -60,7 +66,9 @@
       "description": "beatae et provident et ut vel",
       "url": "https://via.placeholder.com/600/810b14",
       "thumbnailUrl": "https://via.placeholder.com/150/810b14",
-      "artist": "810b14"
+      "artist": "810b14",
+      "audio": "/audio/guns.mp3",
+      "video": "/video/guns.mp4"
     },
     {
       "id": "8",
@@ -68,7 +76,9 @@
       "description": "nihil at amet non hic quia qui",
       "url": "https://via.placeholder.com/600/1ee8a4",
       "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4",
-      "artist": "1ee8a4"
+      "artist": "1ee8a4",
+      "audio": "/audio/queen.mp3",
+      "video": "/video/queen.mp4"
     },
     {
       "id": "9",
@@ -76,7 +86,9 @@
       "description": "mollitia soluta ut rerum eos aliquam consequatur",
       "url": "https://via.placeholder.com/600/66b7d2",
       "thumbnailUrl": "https://via.placeholder.com/150/66b7d2",
-      "artist": "66b7d2"
+      "artist": "66b7d2",
+      "audio": "/audio/daft-punk.mp3",
+      "video": "/video/daft-punk.mp4"
     },
     {
       "id": "10",
@@ -84,7 +96,9 @@
       "description": "repudiandae iusto deleniti rerum",
       "url": "https://via.placeholder.com/600/197d29",
       "thumbnailUrl": "https://via.placeholder.com/150/197d29",
-      "artist": "197d29"
+      "artist": "197d29",
+      "audio": "/audio/guns.mp3",
+      "video": "/video/guns.mp4"
     },
     {
       "id": "11",
@@ -92,7 +106,9 @@
       "description": "est necessitatibus architecto ut laborum",
       "url": "https://via.placeholder.com/600/61a65",
       "thumbnailUrl": "https://via.placeholder.com/150/61a65",
-      "artist": "61a65"
+      "artist": "61a65",
+      "audio": "/audio/queen.mp3",
+      "video": "/video/queen.mp4"
     },
     {
       "id": "12",
@@ -100,7 +116,9 @@
       "description": "harum dicta similique quis dolore earum ex qui",
       "url": "https://via.placeholder.com/600/f9cee5",
       "thumbnailUrl": "https://via.placeholder.com/150/f9cee5",
-      "artist": "f9cee5"
+      "artist": "f9cee5",
+      "audio": "/audio/daft-punk.mp3",
+      "video": "/video/daft-punk.mp4"
     }
   ]
 }
