@@ -23,3 +23,7 @@ h2 {
     color: blue;
     font-family: 'Lobster', cursive;
   }
+
+video {
+    z-index: -1;
+}
