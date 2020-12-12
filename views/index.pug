@@ -8,4 +8,4 @@ block content
                 img(src=item.thumbnailUrl, class=card-img-top, alt="")
                 h2(class="card title") Album: #{item.album}
                 h3 Artist: #{item.artist}
-                a(href='/albums?id=${item.id}', class="btn btn-primary") View album info
+                a(href=`/albums?id=${item.id}`, class="btn btn-primary") View albums info

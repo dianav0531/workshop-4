@@ -18,3 +18,8 @@ article{
     display: flex;
     flex-direction: row;
 }*/
+
+h2 {
+    color: blue;
+    font-family: 'Lobster', cursive;
+  }
